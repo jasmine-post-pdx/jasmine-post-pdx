@@ -4,9 +4,9 @@
 # 👋 Hi, I'm Jasmine  
 ### **Staff SDET → AI Engineer | Building Reliable, Testable, Trustworthy AI Systems**
 
-For 20+ years, I’ve worked as a SDET; designing automation frameworks, validating complex systems, building CI/CD pipelines, and ensuring products ship with reliability and confidence.  
+For 20+ years, I’ve worked in software QA; designing automation frameworks, validating complex systems, building CI/CD pipelines, and ensuring products ship with reliability and confidence.  
 
-Now I’m applying that engineering discipline to **AI systems**, where reliability matters more than ever.
+Now I’m applying all of that engineering discipline to **AI systems**, where reliability matters more than ever.  I can define what good behavior means, construct representative evaluations, diagnose failures across the full system, prevent regressions, constrain unsafe actions, and operate the application in production.
 
 ---
 
